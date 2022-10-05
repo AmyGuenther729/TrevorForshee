@@ -1,0 +1,11 @@
+#the value of i is 1
+i = 1
+#as long as i is less than 6
+while i < 6:
+  #print the value of i
+  print(i)
+  #if the value of i is exactly equal to 3, then break (stop)
+  if i == 8:
+    break
+    # add 1 to i and go back to line 4
+  i += 1

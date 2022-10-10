@@ -1,0 +1,5 @@
+names = ["Trevor", "Macy", "Ben"]
+for x in names:
+  print(x) 
+  if x == "Macy":
+    break

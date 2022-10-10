@@ -1,0 +1,5 @@
+food = ["steak", "chicken", "pickles"]
+for x in food:
+  if x == "chicken":
+    continue
+  print(x) 

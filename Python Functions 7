@@ -1,0 +1,7 @@
+def my_function(Food = "Chicken"):
+  print("I like to eat " + Food)
+
+my_function("Steak")
+my_function("Ice Cream")
+my_function()
+my_function("Fries")

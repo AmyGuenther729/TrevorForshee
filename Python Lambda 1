@@ -1,0 +1,2 @@
+y = lambda b: b + 20 
+print(y(8))

@@ -1,0 +1,2 @@
+y = lambda d, e: d * e
+print(y(8, 9))

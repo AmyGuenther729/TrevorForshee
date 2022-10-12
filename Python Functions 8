@@ -1,0 +1,7 @@
+def my_function(name):
+  for x in name:
+    print(x)
+
+name = ["Trevor", "Macy", "Ben"]
+
+my_function(name)

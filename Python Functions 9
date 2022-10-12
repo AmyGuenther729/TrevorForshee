@@ -1,0 +1,6 @@
+def my_function(y):
+	return 8 * y
+
+print(my_function(6))
+print(my_function(9))
+print(my_function(12))

@@ -1,0 +1,5 @@
+names = ["Trevor", "Macy", "Ronnie"]
+
+y = names[1]
+
+print(y)

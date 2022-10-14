@@ -1,0 +1,11 @@
+cars = ["Ford", "Volvo", "BMW"]
+
+cars.append("Honda")
+
+print(cars)
+
+names = ["Trevor", "Ben", "Macy"]
+
+names.append("Ronnie")
+
+print(names)

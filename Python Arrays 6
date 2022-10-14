@@ -1,0 +1,5 @@
+names = ["Trevor", "Ronnie", "Ben"]
+
+names.pop(2)
+
+print(names)

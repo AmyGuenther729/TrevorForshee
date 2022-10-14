@@ -1,0 +1,5 @@
+names = ["Trevor", "Macy", "Ben", "Ronnie", "Kevin", "Sherry"]
+
+x = len(names)
+
+print(x)

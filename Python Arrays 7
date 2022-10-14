@@ -1,0 +1,5 @@
+names = ["Trevor", "Macy", "Ben"]
+
+names.remove("Macy")
+
+print(names)

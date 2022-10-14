@@ -1,0 +1,4 @@
+names = ["Trevor", "Ryan", "Ben", "Ronnie"]
+
+for x in names:
+  print(x)
